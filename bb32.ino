@@ -9,7 +9,7 @@
  *    Keypad    : https://playground.arduino.cc/Code/Keypad/
  *    Joystick  : https://github.com/MHeironimus/ArduinoJoystickLibrary
  * 
- * Developed & tested on ATmega32u4 5V 16MHZ compatible Arduino clone
+ * Developed & tested on ATmega32u4 compatible Arduino clone
  * 
  */
 
